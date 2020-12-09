@@ -3,6 +3,13 @@
 Express is a framework for Node.js
 Middleware-focused
 
+Node.js - a JavaScript runtime that allows you to execute JS outside of a browser
+
+Express.js - a framework for Node.js
+
+Middleware in Express.js - function that gets a request and may return response
+
+
 npm init
 npm install express --save
 npm install express --save-dev
@@ -18,6 +25,8 @@ npm start
 
 "start": "nodemon app.js"
 npm start
+
+
 
 
 
